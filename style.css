@@ -1,0 +1,26 @@
+
+:root{
+    --lilás: #9185be;
+    --roxo: #2d3266;
+}
+
+.navbar{
+    background-color: var(--roxo);
+}
+.quem-somos{
+    background-color: var(--lilás);
+    padding: 20px;
+}
+.parceiros{
+    background-color: var(--roxo);
+    padding: 20px;
+}
+.services{
+    background-color: var(--lilás);
+    padding: 20px;
+}
+.bg-footer{
+    color: white;
+    background-color: var(--roxo);
+    padding: 5px;
+}
